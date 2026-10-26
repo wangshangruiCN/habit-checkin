@@ -1,0 +1,7 @@
+node_modules
+dist
+.vite
+coverage
+*.local
+habit-checkin-site.zip
+preview.png
